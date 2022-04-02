@@ -1,0 +1,14 @@
+.header__link-item {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  max-width: 28px;
+  min-height: 30px;
+  box-sizing: border-box;
+}
+
+.header__link-item:focus {
+  border-bottom: 1px solid #fff;
+}
