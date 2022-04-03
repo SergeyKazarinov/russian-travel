@@ -1,0 +1,6 @@
+.footer__links {
+  text-decoration: none;
+  color: #FFF;
+  display: flex;
+  gap: 18px;
+}

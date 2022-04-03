@@ -1,0 +1,5 @@
+.place__links {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}

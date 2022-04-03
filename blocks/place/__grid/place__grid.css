@@ -1,0 +1,6 @@
+.place__grid {
+  display: grid;
+  gap: 80px;
+  margin: 0;
+  padding: 0;
+}

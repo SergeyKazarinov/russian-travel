@@ -1,0 +1,8 @@
+.place__list {
+  display: grid;
+  grid-template-columns: 440px 456px;
+  grid-template-rows: repeat(min-content, 440px);
+  column-gap: 32px;
+  row-gap: 48px;
+  list-style-type: none;
+}
