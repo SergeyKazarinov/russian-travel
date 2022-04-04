@@ -1,9 +1,35 @@
 .photo-grid {
-  max-width: 928px;
-  max-height: 942px;
+  max-width: 1184px;
+  min-height: 671px;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(4, 1fr);
   gap: 14px;
-  /* margin: 0 48px; */
+  margin: 0 48px;
+}
+
+@media screen and (min-width: 1120px) {
+  .photo-grid {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 16px;
+  }
+}
+
+@media screen and (max-width: 890px) {
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    gap: 16px;
+    margin: 0 24px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .photo-grid {
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+    gap: 12px;
+    margin: 0 16px;
+  }
 }

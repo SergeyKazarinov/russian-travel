@@ -1,23 +1,41 @@
 # Проект: Путешествие по России
 
-### Обзор
-* Интро
+На странице представлен проект о путишествии по России.
+
+Дизайн-макет — это демонстрация, как должен выглядеть сайт на различных разрешениях. Эти разрешения вовсе не должны совпадать с точками перелома в медиа-запросах. Рекомендуем сосредоточиться на пяти интервалах:
+* от 1280 пикселей — от стандартных ноутбуков и до бесконечности,
+* от 1024 и до 1280 — для небольших ноутбуков,
+* от 768 и до 1024 пикселей — от вертикального до горизонтального положения планшета,
+* от 425 и до 768 пикселей — от большого смартфона до вертикального положения планшета,
+* до 425 пикселей — мобильные устройства.
+
+### В данном проекте использовано
 * Figma
-* Картинки
+* Адаптивная и резиновая верстка (относительные значения %, vw, vh, fr)
+* Используемые шрифты подключены локально
+* БЭМ
+* Файловая структура БЭМ (Nested)
+* Flexbox и Grid Layout
 
-**Интро**
+Ссылка на проект: https://github.com/SergeyKazarinov/russian-travel.git
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+# Project: Traveling in Russia
 
-**Figma**
+The page presents a project about a trip to Russia.
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+A design layout is a demonstration of how a website should look at different resolutions. These permissions do not need to coincide with media query inflection points at all. We recommend focusing on five intervals:
+* from 1280 pixels - from standard laptops to infinity,
+* from 1024 to 1280 - for small laptops,
+* from 768 to 1024 pixels - from vertical to horizontal position of the tablet,
+* from 425 to 768 pixels - from a large smartphone to a vertical tablet position,
+* up to 425 pixels - mobile devices.
 
-**Картинки**
+### This project used
+* Figma
+* Responsive and fluid layout (relative values ​​%, vw, vh, fr)
+* Used fonts connected locally
+* BEM
+* BEM file structure (Nested)
+* Flexbox and Grid Layout
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+Link: https://github.com/SergeyKazarinov/russian-travel.git

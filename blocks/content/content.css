@@ -3,3 +3,15 @@
   grid-row-gap: 92px;
   justify-content: center;
 }
+
+@media screen and (max-width: 890px) {
+  .content {
+    grid-row-gap: 88px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .content {
+    grid-row-gap: 64px;
+  }
+}

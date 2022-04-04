@@ -3,12 +3,15 @@
   color: #fff;
   font-size: 24px;
   line-height: 28px;
-  max-width: 28px;
-  min-height: 30px;
+  max-width: 30px;
+  min-height: 28x;
   box-sizing: border-box;
 }
 
-.header__link-item:focus {
-  border-bottom: 1px solid #fff;
-  /* text-decoration-line: underline; */
+@media screen and (max-width: 540px) {
+  .header__link-item {
+    max-width: 22px;
+    max-height: 20px;
+    font-size: 18px;
+  }
 }

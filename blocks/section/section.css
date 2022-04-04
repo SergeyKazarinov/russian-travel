@@ -2,8 +2,20 @@
   margin: 0 48px;
 }
 
-@media screen and (min-width: 1122px) {
+@media screen and (min-width: 1120px) {
   .section {
      margin: 0 148px;
+  }
+}
+
+@media screen and (max-width: 890px) {
+  .section {
+    margin: 0 24px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .section {
+    margin: 0 16px;
   }
 }

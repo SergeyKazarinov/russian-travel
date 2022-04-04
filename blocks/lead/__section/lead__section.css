@@ -1,0 +1,9 @@
+.lead__section {
+  margin-top: 48px;
+}
+
+@media screen and (min-width: 1120px) {
+  .lead__section {
+    margin-top: 56px;  
+  }
+}

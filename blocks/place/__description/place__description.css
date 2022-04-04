@@ -3,3 +3,16 @@
   flex-direction: column;
   gap: 26px;
 }
+
+@media screen and (max-width: 890px) {
+  .place__description {
+    gap: 25px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .place__description {
+    gap: 25px;
+    margin: 0 16px;
+  }
+}
