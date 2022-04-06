@@ -2,7 +2,7 @@
 
 На странице представлен проект о путишествии по России.
 
-Дизайн-макет — это демонстрация, как должен выглядеть сайт на различных разрешениях. Эти разрешения вовсе не должны совпадать с точками перелома в медиа-запросах. Рекомендуем сосредоточиться на пяти интервалах:
+Дизайн-макет — это демонстрация, как должен выглядеть сайт на различных разрешениях. Данный сайт представлен для пяти разрешений:
 * от 1280 пикселей — от стандартных ноутбуков и до бесконечности,
 * от 1024 и до 1280 — для небольших ноутбуков,
 * от 768 и до 1024 пикселей — от вертикального до горизонтального положения планшета,
@@ -17,13 +17,13 @@
 * Файловая структура БЭМ (Nested)
 * Flexbox и Grid Layout
 
-Ссылка на проект: https://github.com/SergeyKazarinov/russian-travel.git
+Ссылка на проект: https://sergeykazarinov.github.io/russian-travel/index.html
 
 # Project: Traveling in Russia
 
 The page presents a project about a trip to Russia.
 
-A design layout is a demonstration of how a website should look at different resolutions. These permissions do not need to coincide with media query inflection points at all. We recommend focusing on five intervals:
+A design layout is a demonstration of how a website should look at different resolutions. This site is subject to five permissions:
 * from 1280 pixels - from standard laptops to infinity,
 * from 1024 to 1280 - for small laptops,
 * from 768 to 1024 pixels - from vertical to horizontal position of the tablet,
@@ -38,4 +38,4 @@ A design layout is a demonstration of how a website should look at different res
 * BEM file structure (Nested)
 * Flexbox and Grid Layout
 
-Link: https://github.com/SergeyKazarinov/russian-travel.git
+Link: https://sergeykazarinov.github.io/russian-travel/index.html
