@@ -3,5 +3,6 @@
   color: #fff;
   font-weight: 400;
   width: 100%;
+  overflow-x: hidden;
   flex-shrink: 0;
 }
