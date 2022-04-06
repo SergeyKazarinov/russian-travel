@@ -9,6 +9,7 @@
   flex-direction: column;
   align-self: center;
   align-items: center;
-  margin: 0 auto;
+  /* margin: 0 auto; */
+  /* Я не знаю почему, но у меня все равно не появлялся горизонтальный скролл */
 }
 
