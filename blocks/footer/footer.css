@@ -12,13 +12,13 @@
   }
 }
 
-@media screen and (max-width: 890px) {
+@media screen and (max-width: 970px) {
   .footer {
     margin: 64px 24px 24px;
   }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 675px) {
   .footer {
     min-width: 186px;
     min-height: 310px;

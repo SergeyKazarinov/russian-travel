@@ -2,15 +2,22 @@
   display: grid;
   grid-row-gap: 92px;
   justify-content: center;
+  flex-shrink: 0;
+  font-family: 'Inter', Arial, sans-serif;
+  color: #fff;
+  font-weight: 400;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0 auto;
 }
 
-@media screen and (max-width: 890px) {
+@media screen and (max-width: 970px) {
   .content {
     grid-row-gap: 88px;
   }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 970px) {
   .content {
     grid-row-gap: 64px;
   }

@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 675px) {
   .header__link-item {
     max-width: 22px;
     max-height: 20px;

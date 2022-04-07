@@ -4,13 +4,13 @@
   gap: 26px;
 }
 
-@media screen and (max-width: 890px) {
+@media screen and (max-width: 970px) {
   .place__description {
     gap: 25px;
   }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 675px) {
   .place__description {
     margin: 0 16px;
   }

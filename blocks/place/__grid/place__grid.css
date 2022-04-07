@@ -5,7 +5,7 @@
   padding: 0;
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 675px) {
   .place__grid {
     gap: 50px;
   }

@@ -8,13 +8,13 @@
   }
 }
 
-@media screen and (max-width: 890px) {
+@media screen and (max-width: 970px) {
   .section {
     margin: 0 24px;
   }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 675px) {
   .section {
     margin: 0 16px;
   }

@@ -4,7 +4,7 @@
   justify-content: end;
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 675px) {
   .place__links {
     margin: 0 16px;
   }

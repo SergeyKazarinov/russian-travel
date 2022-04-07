@@ -4,20 +4,20 @@
 
 @media screen and (min-width: 1120px) {
   .place {
-    max-width: 984px;
+    /* max-width: 984px; */
      margin: 0 148px;
   }
 }
 
-@media screen and (max-width: 890px) {
+@media screen and (max-width: 970px) {
   .place {
     margin: 0 24px;
   }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 675px) {
   .place {
-    min-width: 320px;
+    /* min-width: 320px; */
     margin: 0;
   }
 }

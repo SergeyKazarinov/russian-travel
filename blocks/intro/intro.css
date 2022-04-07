@@ -1,5 +1,5 @@
 .intro {
-  max-width: 690px;
+  /* max-width: 690px; */
   min-height: 420px;
   margin-left: 48px;
 }
@@ -11,14 +11,14 @@
   }
 }
 
-@media screen and (max-width: 890px) {
+@media screen and (max-width: 970px) {
   .intro {
-    max-width: 720px;
+    /* max-width: 720px; */
     margin: 0 24px;
   }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 675px) {
   .intro {
     /* max-width: 288px; */
     /* min-height: 754px; */

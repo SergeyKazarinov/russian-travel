@@ -1,15 +1,12 @@
 .body {
-  /* min-width: 320px; */
-  min-width: fit-content;
-  max-width: 1280px;
-  min-height: 100vh;
   background-color: #2A2C2F;
-  box-sizing: border-box;
+  color: #fff;
+  font-weight: 400;
+  min-width: min-content;
+  max-width: 100%;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-self: center;
-  align-items: center;
-  /* margin: 0 auto; */
-  /* Я не знаю почему, но у меня все равно не появлялся горизонтальный скролл */
+  margin: 0 auto;
 }
 
